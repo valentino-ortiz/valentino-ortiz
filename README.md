@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hola! Mi nombre es Valentino Ortiz👋
+### Estudiante de Ingeniería en Sistemas de Información
 
 <!--
 **valentino-ortiz/valentino-ortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
