@@ -1,7 +1,20 @@
-# 👨‍💻 Valentino Ortiz
+# Hola, soy Valentino Ortiz 👋
 
-**💻 Estudiante de Ingeniería de Sistemas | Autodidacta en Programación**
+Estudiante de **Ingeniería en Sistemas de Información** (UTN FRRo, 4.º año) y **QA Trainee** en la Municipalidad de Rosario.
+Me gusta encontrar lo que no cierra y automatizar lo que se repite; hoy estoy llevando eso al **análisis de datos**.
 
-<!-- Hola, soy Valentino, un estudiante de Ingeniería de Sistemas apasionado por la tecnología y el desarrollo de software. Actualmente, estoy aprendiendo diferentes lenguajes de programación de manera semiformal por mi cuenta, lo que me ha permitido explorar diversas áreas del desarrollo web y del software.
+- 🔍 **Trabajo:** pruebas de sistemas en pre-producción y automatización de regresión con Playwright (TypeScript).
+- 📊 **Aprendiendo:** SQL, Power BI y pandas, con un proyecto de análisis de datos abiertos (en curso).
+- 🎓 **Base:** bachiller en Economía y Administración.
 
-Estoy siempre buscando nuevas oportunidades para mejorar mis habilidades y colaborar en proyectos interesantes. Me encanta resolver problemas y enfrentar nuevos desafíos en el mundo de la programación. -->
+### Proyectos destacados
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [Regelabo](https://github.com/facumrb/regelabo) | Laboratorio virtual auditivo: ejecuta un modelo de simulación del oído humano y visualiza sus resultados (proyecto UTN, en equipo) | Python · FastAPI · PostgreSQL · React · Plotly · Docker |
+| [streamlit-soporte](https://github.com/valentino-ortiz/streamlit-soporte) | App de cuenta corriente de clientes: consultas, ABM, métricas, gráficos y exportación a Excel/PDF | Python · Streamlit · SQLite · pandas · Plotly |
+| [TpDsw-Backend](https://github.com/valentino-ortiz/TpDsw-Backend) / [Frontend](https://github.com/valentino-ortiz/TpDsw-Frontend) | E-commerce full-stack con roles, ABM y carrito (proyecto UTN) | TypeScript · Node.js · Express · Angular · MySQL |
+
+### Herramientas
+`SQL` `PostgreSQL` `MySQL` `Python` `Playwright` `TypeScript` `Git` `Docker` `Excel`
+
+📫 [LinkedIn](https://www.linkedin.com/in/valentino-ortiz/)
