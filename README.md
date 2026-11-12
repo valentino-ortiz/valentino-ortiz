@@ -1,10 +1,10 @@
 # Hola, soy Valentino Ortiz 👋
 
 Estudiante de **Ingeniería en Sistemas de Información** (UTN FRRo, 4.º año) y **QA Trainee** en la Municipalidad de Rosario.
-Me gusta encontrar lo que no cierra y automatizar lo que se repite; hoy estoy llevando eso al **análisis de datos**.
+Me gusta encontrar lo que no cierra y automatizar lo que se repite.
 
 - 🔍 **Trabajo:** pruebas de sistemas en pre-producción y automatización de regresión con Playwright (TypeScript).
-- 📊 **Aprendiendo:** SQL, Power BI y pandas, con un proyecto de análisis de datos abiertos (en curso).
+- 📊 **Aprendiendo:** SQL, Power BI y pandas.
 - 🎓 **Base:** bachiller en Economía y Administración.
 
 ### Proyectos destacados
